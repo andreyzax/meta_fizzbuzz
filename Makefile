@@ -10,6 +10,7 @@ install: build
 	ln -sf src/fizzbuzz.rb fizzbuzz.rb
 	ln -sf src/fizzbuzz.py fizzbuzz.py
 	ln -sf src/fizzbuzz.js fizzbuzz.js
+	ln -sf src/fizzbuzz.lua fizzbuzz.lua
 	ln -sf src/fizzbuzz_java_wrapper.sh fizzbuzz.javalang
 	ln -sf src/check_fizzbuzz.sh check_fizzbuzz.sh
 	ln -sf src/fizzbuzz.golang fizzbuzz.golang
